@@ -311,7 +311,6 @@
         this.form.money_deposit = 0;
         this.form.email = '';
         this.arrVehicles = [],
-        this.arrInstallments = [],
         this.vehicleSelected = '',
         this.showVehicleInformation = false,
         this.showSimulationInformation = false,
